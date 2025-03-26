@@ -3,11 +3,9 @@
 
 import re
 
-code_lines = int(input())
-
-for x in range(code_lines):
+for x in range(int(input())):
     text = input()
-    matches = re.findall(r"(?<=.)(#[0-9a-fA-F]{3}|#[0-9a-fA-F]{6})(?=;)",text)
+    matches = re.findall(r"(?<=.)(#[0-9A-Fa-f]{6}|#[0-9A-Fa-f]{3})",text)
     if matches:
-        for i in matches:
-            print(i)
+        for x in matches:
+            print(x)
