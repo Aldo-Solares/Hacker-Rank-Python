@@ -14,12 +14,13 @@ El repositorio está organizado en carpetas que corresponden a los niveles de di
 
 - **Fácil**: Contiene soluciones a problemas de nivel fácil.
 - **Medio**: Incluso soluciones a desafíos de dificultad media.
-
-Cada carpeta alberga los scripts Python con las soluciones a los respectivos desafíos.
+  
+> [!NOTE]
+> Al inicio de cada código, viene indicado el link del respectivo desafío.
 
 ## 📝 Nota
 
-Las variables de los códigos varía entre español e inglés, lo ideal es que para futuros ejemplos unificar un solo idioma (Inglés), para poder compartir de mejor manera los códigos
+Las variables de los códigos varía entre español e inglés, lo ideal es que para futuros ejemplos unificar un solo idioma (Inglés), para poder compartir de mejor manera los códigos.
 
 ## 🛠️ Requisitos
 
