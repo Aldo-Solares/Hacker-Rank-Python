@@ -1,6 +1,6 @@
 # 📚 Desafíos de Python
 
-¡Bienvenido a mi repositorio **Hacker-Rank**!
+¡Bienvenido a mi repositorio **Hacker-Rank-Python**!
 
 Aquí encontrarás mis soluciones a algunos desafíos de Python de la plataforma [HackerRank](https://www.hackerrank.com/).
 
